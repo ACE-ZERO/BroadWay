@@ -51,18 +51,18 @@ nav {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
-.SupportingItem {
+.SupportingItems {
   text-align: center;
   font-family: Helvetica;
 
 }
 
-.SupportingItem p {
+.SupportingItems p {
   font-size: 14px;
 
 }
 
-.SupportingItem h2 {
+.SupportingItems h2 {
   font-size: 32px;
   font-weight: bold;
 
@@ -73,10 +73,10 @@ nav {
   font-size: 11px;
   color: white;
   background-color: dimgray;
-  text-decoration-color: white;
 
 }
 
-.botNav {
+.footer a {
+  text-decoration: underline;
 
 }
